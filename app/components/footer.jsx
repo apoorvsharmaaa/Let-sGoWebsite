@@ -76,8 +76,9 @@ export default function Footer() {
                   </a>
                 </div>
                 <h1>CONTACT US</h1>
-                <div className="flex  items-center justify-center gap-2">
-                  <CiMobile1 /> <b>+91-9650021057</b>
+                <div className="flex-col  items-center justify-center gap-2">
+                <CiMobile1 /> <b>+91-9079136297</b>
+                <CiMobile1 /> <b>+91-9650021057</b>
                 </div>
                 <div className="flex  items-center justify-center gap-2">
                   <CiMail /> <b>sales@letsgoSolutions.com</b>
